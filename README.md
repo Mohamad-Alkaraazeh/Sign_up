@@ -1,6 +1,6 @@
 # Projektübersicht
 + Frontend :
-Das Frontend-Design wurde von Google heruntergeladen [a link] (https://startbootstrap.com/). 
+Das Frontend-Design wurde von Google (https://startbootstrap.com/) heruntergeladen. 
 
 + Backend:  Die Backend-Logik wurde komplett in Java entwickelt.
 
