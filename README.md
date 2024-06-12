@@ -1,7 +1,13 @@
 # Projektübersicht
-* Frontend: Das Frontend-Design wurde von Google [startbootstrap](https://startbootstrap.com/) heruntergeladen. 
 
-* Backend: Die Backend-Logik wurde komplett in Java entwickelt.
+* Frontend: The frontend design was downloaded from Google [startbootstrap](https://startbootstrap.com/).
 
-    * Sie umfasst die Verarbeitung von Daten, die Implementierung von API-Endpunkten für die Kommunikation zwischen Frontend und Backend sowie die Verwaltung und Interaktion mit der Datenbank.
-    * Darüber hinaus wurde sichergestellt, dass alle Eingaben vom Benutzer überprüft werden, bevor sie in die Datenbank gespeichert werden.
+* Backend: The backend logic was entirely developed in Java.
+   *It includes data processing, implementation of API endpoints for communication between frontend and backend, as well as database management and interaction.
+   *Additionally, it was ensured that all user inputs are validated before being stored in the database.
+
+*Features:
+   *User registration and login
+   *CRUD operations for user data
+   *Secure input validation
+   
