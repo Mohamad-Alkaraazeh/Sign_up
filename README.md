@@ -6,8 +6,8 @@
    *It includes data processing, implementation of API endpoints for communication between frontend and backend, as well as database management and interaction.
    *Additionally, it was ensured that all user inputs are validated before being stored in the database.
 
-*Features:
-   *User registration and login
-   *CRUD operations for user data
-   *Secure input validation
+* Features:
+   * User registration and login
+   * CRUD operations for user data
+   * Secure input validation
    
